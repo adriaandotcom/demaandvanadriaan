@@ -13,6 +13,13 @@ comments: true
 share: true
 ---
 
-Om half 10 wordt er op mijn deur geklopt. Ik schrik wakker en kan de omgeving om mij heen niet echt thuis brengen (of toch wel). Er wordt mij gevraagd of ik wil douchen, "Ja, graag", antwoord ik, waarna de deur weer gesloten wordt. Ik draai mij nog een keer om en val weer in slaap.
+Om half 10 wordt er op mijn deur geklopt. Ik schrik wakker en kan de omgeving om mij heen niet echt thuis brengen (of toch wel). Er wordt mij gevraagd of ik wil douchen, "Ja, graag", antwoord ik, waarna de deur weer gesloten wordt. Ik draai mij om en val weer in slaap.
 
-Een klein halfuurtje later gaat de deur weer open. Een man zegt mij dat ik kan gaan douchen en achter hem aan mag lopen. Ik nog half versuft maak aanstalte om te vertrekken van mijn toch wel lekkere bedje. De man vindt het niet snel genoeg gaan en vraagt mij dringend om op te schieten. We lopen samen een paar gangen door en er wordt geen woord gewisseld. Bij een deur stopt hij en vraagd mij te wachten. Hij opent de deur en duwd wat handdoeken en zeepjes in mijn handen. Ik mag gaan douchen.
+Een klein halfuurtje later gaat de deur weer open. Er verschijnt een brede gestalte voor in de deuropening. De gestalte zegt dat ik mag gaan douchen en met hem mee mag lopen. Ik - nog half versuft - maak aanstalten om mijn toch wel lekkere bedje te verlaten. De man vindt het niet snel genoeg gaan en vraagt mij dringend om op te schieten. We lopen samen een paar gangen door, er wordt geen woord gewisseld. Bij een deur stopt hij en vraagt mij te wachten. Hij opent de deur en duwt wat handdoeken en zeepjes in mijn handen. Ik mag gaan douchen.
+
+Ik loop de ruimte binnen en trek een half openstaande deur verder open. Een naakte man kijkt mij verbazend aan, waarop ik snel de deur weer sluit. Nog steeds versuft loop ik naar een andere deur en trek deze open. Hierachter staat gelukkig geen man. Het is een kale ruimte waar zelfs geen hangertjes aan de muur zitten. Ik leg mijn spullen op de grond en zet de douche aan.
+
+Ondertussen wordt het mij steeds duidelijker dat ik een kater heb. Het is duidelijk te merken nu ik onder de douche ga staan. Er is geen warmteregelaar dus ik moet het doen met *standje cremeren*. Liever zou ik *standje ijszee* willen, maar ik begrijp dat ik op deze locatie niet veel te willen heb.
+
+Na het douchen klop ik op de deur en krijg ik persoonlijke begeleiding naar mijn kamer. Ik ga op mijn bed liggen en zuchtend val ik in slaap en denk: "Dit nooit meer."
+
