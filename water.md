@@ -18,6 +18,7 @@ Natuurlijk zal niemand die overkomen en zeker niet als je student bent. Iedereen
 Ik zal geen ambassadeur spelen voor geen alcohol. Ik wil niet laten zien hoe goed ik ben of hoe makkelijk het is. Ik wil zelf meemaken of de vooroordelen kloppen en zal de mijn ervaringen met jullie delen.
 
 Deze maand is onderdeel van een serie maanden waarbij ik extremen probeer op te zoeken. Deze maand is misschien nog niet extreem genoeg, extremere voorbeelden:
+
  - Een maand als zwerver leven.
  - Een maand niet thuis slapen.
  - Een maand geen eten kopen.
