@@ -21,5 +21,5 @@ Ik loop de ruimte binnen en trek een half openstaande deur verder open. Een naak
 
 Ondertussen wordt het mij steeds duidelijker dat ik een kater heb. Het is duidelijk te merken nu ik onder de douche ga staan. Er is geen warmteregelaar dus ik moet het doen met *standje cremeren*. Liever zou ik *standje ijszee* willen, maar ik begrijp dat ik op deze locatie niet veel te willen heb.
 
-Na het douchen klop ik op de deur en krijg ik persoonlijke begeleiding naar mijn kamer. Ik ga op mijn bed liggen en zuchtend val ik in slaap en denk: "Dit nooit meer."
+Na het douchen klop ik op de deur en krijg ik persoonlijke begeleiding naar mijn kamer. Ik ga op mijn bed liggen, mijn ogen vallen dicht en ik denk: "Dit nooit meer."
 
