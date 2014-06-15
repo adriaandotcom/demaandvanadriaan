@@ -20,6 +20,23 @@
       </header>
       <div class="entry-content">
         {{ content }}
+
+        {% if site.categories[page.category] | size > 0 %}
+          <hr>
+          <h3>Alle posts die bij deze maand horen</h3>
+          <ul>
+            {% for post in site.categories[page.category] %}
+              <li>
+                <a href="{{ post.url }}">
+                  <time datetime="{{ post.date | date_to_xmlschema }}">
+                    <i class="icon-calendar-empty"></i> {{ post.date | date: "%d %B '%y" }}
+                  </time> - {{ post.title }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
         {% if site.disqus_shortname and page.comments %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->

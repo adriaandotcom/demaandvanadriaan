@@ -1,18 +1,28 @@
 ---
 layout: page
-title:
-description: ""
+title: ""
+description: "Volg hier de blog waarin Adriaan elke maand iets uit gaat proberen. Walg, geniet, verbaas!"
 tags: []
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li>
-    <article>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}
-        <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>
-      </a>
-    </article>
-  </li>
+{% for category in site.categories %}
+  <h2 class="month-title">
+    De '{{ category | first }}' maand
+  </h2>
+  <p class="month-explanation"><a href="/{{ category | first }}/"><i class="icon-question-sign"></i> Uitleg over deze maand</a></p>
+    <ul>
+    {% for posts in category %}
+      {% for post in posts %}
+        {% if post.title %}
+          <li>
+            <a href="{{ post.url }}">
+              <time datetime="{{ post.date | date_to_xmlschema }}">
+                <i class="icon-calendar-empty"></i> {{ post.date | date: "%d %B '%y" }}
+              </time> - {{ post.title }}
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
 {% endfor %}
-</ul>

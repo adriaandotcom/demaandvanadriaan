@@ -9,6 +9,20 @@ body {
 	}
 }
 
+// index page
+.month-title {
+	margin-bottom: 0;
+}
+// index page
+.month-explanation {
+	margin-top: 0;
+	font-size: 80%;
+
+	a {
+		border-bottom-width: 0 !important;
+	}
+}
+
 // Top Navigation
 // --------------------------------------------------
 .navigation-wrapper {
@@ -296,7 +310,12 @@ span + .entry-title {
 	}
 	p > a,
 	li > a {
+
 		border-bottom: 1px dotted lighten(@link-color, 50);
+
+		&:visited {
+			border-bottom: 1px dotted lighten(@link-visited-color, 50);
+		}
 		&:hover {
 			border-bottom-style: solid;
 		}

@@ -2,6 +2,7 @@
 layout: page
 permalink: /water/
 title: Een maand alleen water
+category: water
 tags: [maand uitleg]
 modified: 2014-06-14
 image:
