@@ -26,7 +26,7 @@ owner:
   flickr:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus:    https://plus.google.com/u/0/b/100727344084502034047
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-243569-34
@@ -37,10 +37,10 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Water
-    url: /water/
-  - title: Posts
-    url: /posts/
+  # - title: Water
+  #   url: /water/
+  # - title: Posts
+  #   url: /posts/
   # - title: Made Mistakes
   #   url: http://mademistakes.com
   #   external: true
