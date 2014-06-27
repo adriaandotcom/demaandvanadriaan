@@ -21,4 +21,4 @@ De Vrije Universiteit van Amsterdam heeft onderzocht of er een verband bestaat t
 
 Er werd een enquête ingevuld door studenten. De enquête bevatte vragen over de persoon zelf en werden gevolgd door de *Positive Affect Negative Affect Schedule (PANAS)*, een levensoriëntatietest, *JCT en de Rosenberg self-esteem Scale (RSES)*.
 
-Uit de conclusie van het onderzoek blijkt dat er geen verband is tussen alcoholgebruik en de eigenwaarde. Dit kan ik zelf bevestigen. Je wordt er inderdaad losser van alcohol, en ja, in een totaal onbekende groep is het wel prettig om de sociale krampachtigheden los te laten, maar het zal geen effect hebben op je eigenwaarde.
+Uit de conclusie van het onderzoek blijkt dat er geen verband is tussen alcoholgebruik en de eigenwaarde. Dit kan ik zelf bevestigen. Je wordt inderdaad losser van alcohol, en ja, in een totaal onbekende groep is het wel prettig om de sociale krampachtigheden los te laten, maar het zal geen effect hebben op je eigenwaarde.
