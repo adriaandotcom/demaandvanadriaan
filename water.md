@@ -6,7 +6,7 @@ category: water
 tags: [maand uitleg]
 modified: 2014-06-14
 image:
-  feature: covers/water.jpg
+  feature: covers/tasje.jpg
   credit: PublicDomainPictures
   creditlink: http://pixabay.com/en/users/PublicDomainPictures/
 comments: true
