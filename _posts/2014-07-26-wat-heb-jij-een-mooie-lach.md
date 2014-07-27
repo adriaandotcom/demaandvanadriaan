@@ -19,7 +19,7 @@ Achter de counter staat een leuke dame, ze lacht vriendelijk en ik lach vriendel
 
 ![De koffiebeker van Adriaan bij de Starbucks](/images/covers/koffie.jpg)
 
-Ze is duidelijk een beetje zenuwachtig waardoor ze direct haar pak melk laat vallen. Ze doet net alsof er niets aan de hand is en we genieten allebei van de gezonde spanning. Als ze me de latte aangeeft valt het me op dat ze m'n naam creatief heeft opgeschreven. Ik verlaat de tent en loop lichting de bus. Opeens bedenk ik mij en loop weer terug, het meisje is ergens in het tentje verdwenen, en ik ga voor haar raampje staan. "Nog iets vergeten, wat heb jij een mooie lach", zeg ik als ze weer bij het raampje verschenen. "Oh, eh, bedankt!"," zegt ze vlug.
+Ze is duidelijk een beetje zenuwachtig waardoor ze direct haar pak melk laat vallen. Ze doet net alsof er niets aan de hand is en we genieten allebei van de gezonde spanning. Als ze me de latte aangeeft valt het me op dat ze m'n naam creatief heeft opgeschreven. Ik verlaat de tent en loop lichting de bus. Opeens bedenk ik mij en loop weer terug, het meisje is ergens in het tentje verdwenen, en ik ga voor haar raampje staan. "Nog iets vergeten, wat heb jij een mooie lach", zeg ik als ze weer bij het raampje verschenen. "Oh, eh, bedankt!", zegt ze vlug.
 
 * * *
 
