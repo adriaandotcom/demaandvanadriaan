@@ -1,13 +1,15 @@
 ---
-layout: page
-permalink: /complimentjes/
+layout: post
 title: 5 complimentjes per dag
+description: "Een nieuwe maand! Deze maand alleen maar complimentjes, wat zou me dat brengen?"
 category: complimentjes
+permalink: /complimentjes/
 tags: [maand uitleg]
-modified: 2014-06-14
 image:
   feature: covers/koffie.jpg
 comments: true
+share: true
+readtime: 2
 ---
 
 Nu de maand juni al een tijdje afgelopen is ben ik al weer begonnen aan een nieuwe maand. Natuurlijk ben ik gestart op 1 juli, maar om jullie niet elke dag met een post te vervelen schijf ik er nu pas over. In de maand juli *2014* zal ik elke dag 5 complimentjes uitdelen. Aan vreemden, bekenden en al het andere wat op deze aardbol rondloopt.

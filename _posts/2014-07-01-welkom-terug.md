@@ -8,6 +8,7 @@ image:
   feature: covers/amstel.jpg
 comments: true
 share: true
+readtime: 2
 ---
 
 Uren hadden ze gewacht. Het was donker en koud, terwijl het buiten rond de 18 graden was. Het voelde raar, zo met z'n allen wachtend op het einde. Eerst hadden ze nog bij kun vrienden gezeten. Ze waren allemaal sinds hun geboorte de stad niet uit geweest. Dat gold niet voor al hun vrienden, sommige reisden af naar andere steden, of zelfs andere landen en kwamen nooit meer terug.

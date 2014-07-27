@@ -7,10 +7,9 @@ category: water
 tags: [water]
 image:
   feature: covers/tasje.jpg
-  <!-- credit: Michael Rose -->
-  <!-- creditlink: http://mademistakes.com -->
 comments: true
 share: true
+readtime: 2
 ---
 
 Om half 10 wordt er op mijn deur geklopt. Ik schrik wakker en kan de omgeving om mij heen niet echt thuis brengen (of toch wel). Er wordt mij gevraagd of ik wil douchen, "Ja, graag", antwoord ik, waarna de deur weer gesloten wordt. Ik draai mij om en val weer in slaap.

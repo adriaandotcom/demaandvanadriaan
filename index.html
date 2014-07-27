@@ -5,24 +5,24 @@ description: "Volg hier de blog waarin Adriaan elke maand iets uit gaat proberen
 tags: []
 ---
 
-{% for category in site.categories %}
+{% for category in site.categories reversed %}
   <h2 class="month-title">
-    De '{{ category | first }}' maand
+    De {{ category | first }} maand
   </h2>
-  <p class="month-explanation"><a href="/{{ category | first }}/"><i class="icon-question-sign"></i> Uitleg over deze maand</a></p>
-    <ul>
+  <ol>
+    <!-- <li><a href="/{{ category | first }}/">Waarom de {{ category | first }} maand?</a></li> -->
     {% for posts in category %}
-      {% for post in posts %}
+      {% for post in posts reversed %}
         {% if post.title %}
           <li>
             <a href="{{ post.url }}">
-              <time datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.title }} <small><time datetime="{{ post.date | date_to_xmlschema }}">
                 <i class="icon-calendar-empty"></i> {{ post.date | date: "%d %B '%y" }}
-              </time> - {{ post.title }}
+              </time></small>
             </a>
           </li>
         {% endif %}
       {% endfor %}
     {% endfor %}
-    </ul>
+  </ol>
 {% endfor %}

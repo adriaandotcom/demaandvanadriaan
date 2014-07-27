@@ -11,6 +11,7 @@ image:
   creditlink: http://nl.wikipedia.org/wiki/Pauwen#mediaviewer/Bestand:Pauw-1.jpg
 comments: true
 share: true
+readtime: 2
 ---
 
 Het beeld dat iemand op emotioneel niveau over zichzelf heeft, oftewel eigenwaarde, is één van de grootste veranderingen deze maand. Drank zorgt voor een verhoging van de eigenwaarde, je wordt er losser van, sommige remmingen vallen weg. Ik dacht dat ik alcohol nodig had op een feestje om mijn eigenwaarde op te krikken.
