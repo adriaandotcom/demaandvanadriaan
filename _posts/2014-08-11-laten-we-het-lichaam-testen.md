@@ -5,7 +5,7 @@ description: "Een nieuwe maand! Deze maand elke dag 1 uur sporten, zou Adriaan h
 category: 1-uur-sporten
 tags: [1 uur sporten]
 image:
-  feature: covers/brediusbad.jpg
+  feature: covers/marnixbad.jpg
 comments: true
 share: true
 readtime: 2
