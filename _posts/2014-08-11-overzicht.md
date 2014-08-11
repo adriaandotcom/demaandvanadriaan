@@ -24,3 +24,4 @@ Hier het overzicht wat ik eens in de zoveel tijd zal bijhouden.
  8.  [11km hardlopen](http://runkeeper.com/user/660718786/activity/409836910)
  9.  [1980m zwemmen Brediusbad](http://runkeeper.com/user/660718786/activity/410189888)
  10. [6km hardlopen](http://runkeeper.com/user/660718786/activity/411188405) de rest lopen (kuiten zijn op)
+ 11. 64 situps, 62 pushups en stukje hardlopen
