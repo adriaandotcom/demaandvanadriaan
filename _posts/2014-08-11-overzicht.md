@@ -25,3 +25,5 @@ Hier het overzicht wat ik eens in de zoveel tijd zal bijhouden.
  9.  [1980m zwemmen Brediusbad](http://runkeeper.com/user/660718786/activity/410189888)
  10. [6km hardlopen](http://runkeeper.com/user/660718786/activity/411188405) de rest lopen (kuiten zijn op)
  11. 64 situps, 62 pushups en stukje hardlopen
+ 12. [28km fietsen](http://runkeeper.com/user/660718786/activity/412447125) in 1 uur 24 min
+ 13. [18km fietsen](http://runkeeper.com/user/660718786/activity/412798773) & 20 min buik- en bilspier oefeningen met Lisanne
