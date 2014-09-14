@@ -37,7 +37,7 @@ Hier het overzicht van wat ik in de 1-uur-sporten-maand heb gedaan.
  21. [Rittersport](https://www.facebook.com/demaandvanadriaan/photos/a.647561822002597.1073741828.647264892032290/682112108547568)
  22. [Tafeltennis](https://www.facebook.com/demaandvanadriaan/photos/a.647561822002597.1073741828.647264892032290/682574095168036/)
  23. [11 km hardlopen](http://runkeeper.com/user/harianus/activity/419525814)
- 24. [5 uur Kitesurfen](https://www.facebook.com/demaandvanadriaan/posts/683435748415204)
+ 24. [5 uur kitesurfen](https://www.facebook.com/demaandvanadriaan/posts/683435748415204)
  25. [Zwemmen Marnixbad](https://www.facebook.com/demaandvanadriaan/photos/a.647588441999935.1073741829.647264892032290/683743595051086/)
  26. [~7 km hardlopen](http://runkeeper.com/user/harianus/activity/421478329) + opdrukken
  27. [26 km fietsen](http://runkeeper.com/user/harianus/activity/422612188)
