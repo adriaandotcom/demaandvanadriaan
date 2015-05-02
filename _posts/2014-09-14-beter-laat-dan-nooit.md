@@ -3,7 +3,7 @@ layout: post
 title: Beter laat dan nooit
 description: ""
 category: geen-supermarkt
-tags: [maand uitleg, geen supermark]
+tags: [maand uitleg, geen supermarkt]
 image:
   feature: covers/groenteboer-overtoom.jpg
 comments: true
