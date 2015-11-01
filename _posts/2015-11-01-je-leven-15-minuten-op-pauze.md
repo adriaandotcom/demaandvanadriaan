@@ -5,7 +5,7 @@ description: ""
 category: pauze
 tags: [maand uitleg, pauze]
 image:
-  feature: https://cloud.githubusercontent.com/assets/1079135/10870551/cfbc9bb6-80cd-11e5-8bca-773df6647986.JPG
+  feature: covers/grachten.jpg
 comments: true
 share: true
 readtime: 3
