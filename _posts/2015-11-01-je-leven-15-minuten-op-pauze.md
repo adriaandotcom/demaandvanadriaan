@@ -11,7 +11,7 @@ share: true
 readtime: 3
 ---
 
-Daar gaan we dan. Na 5 maanden pauze van de maand van Adriaan nu elke dag pauze. Vandaag heb ik mijn eerste pauze genomen van 15 minuten. Gewoon simpel op een bankje of stoepje gaan zitten en even je sociale-, digitale- en werkleven op pauze te zetten. Met het doel om over dingen na te denken die je snel kunt vergeten als je doorraast in je dagelijks leven. En die gedachte klinkt natuurlijk mooi, maar dan zit je op een bankje met een cappucino van [Lungoccino](https://www.google.com/maps/place/Lungoccino/@52.3687669,4.885921,17z/data=!4m7!1m4!3m3!1s0x47c609c1884e46a9:0x6be8975d048e962c!2sHeisteeg+5,+1012+WC+Amsterdam,+Netherlands!3b1!3m1!1s0x47c609c2270fbb75:0x922d0f14e202e47) en denk je: "Waar doe ik dit eigenlijk voor?"
+Daar gaan we dan. Na 5 maanden pauze van de maand van *Adriaan nu elke dag pauze*. Vandaag heb ik mijn eerste pauze genomen van 15 minuten. Gewoon simpel op een bankje of stoepje gaan zitten en even je sociale-, digitale- en werkleven op pauze te zetten. Met het doel om over dingen na te denken die je snel kunt vergeten als je doorraast in je dagelijks leven. En die gedachte klinkt natuurlijk mooi, maar dan zit je op een bankje met een *gratis* cappucino van [Lungoccino](https://www.google.com/maps/place/Lungoccino/@52.3687669,4.885921,17z/data=!4m7!1m4!3m3!1s0x47c609c1884e46a9:0x6be8975d048e962c!2sHeisteeg+5,+1012+WC+Amsterdam,+Netherlands!3b1!3m1!1s0x47c609c2270fbb75:0x922d0f14e202e47) en denk je: "Waar doe ik dit eigenlijk voor?"
 
 ![Bankje aan de Herengracht](/images/posts/bankje.jpg)
 
