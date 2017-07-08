@@ -11,7 +11,7 @@ share: true
 readtime: 2
 ---
 
-I had some conversations in the last few weeks about making plans with friends. The whole conversation started when I heard myself saying that I had an invite link for people so they could plan an appointment with me. When the other person anwsered: I almost never plan anything and will see how the evening goes. I know that those evenings, when you didn't plan anything, usually turn out to be the better unexpected evenings.
+I had some conversations in the last few weeks about making plans with friends. The idea that I needed to do something about it started when I heard myself saying that I had an invite link for people so they could plan an appointment with me. When the other person anwsered: I almost never plan anything and I will see how the evening goes. I know those evenings, when you didn't plan anything, usually turn out to be the better unexpected evenings.
 
 ## Benefits of planning
 Planning has also some great bennefits. For example: my brother and his wife live in San Francisco and the time difference between Amsterdam and their city is 9 hours. To setup a video call it's quite handy to be able to just pick a date and time and plan an accual appointment.
