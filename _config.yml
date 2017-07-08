@@ -1,8 +1,7 @@
 # Site settings
-title:            De maand van Adriaan
-description:      "Volg hier de blog waarin Adriaan elke maand iets uit gaat proberen. Walg, geniet, verbaas!"
+title:            "The month of Adriaan"
+description:      "Follow the blog on which Adriaan will try something out every month, or so. Nauseate, enjoy, or be amazed!"
 baseurl:          ""
-
 
 logo:             site-logo.png
 disqus_shortname: demaandvanadriaan
@@ -19,7 +18,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        maandvanadriaan
   facebook:       demaandvanadriaan
-  github:         harianus/demaandvanadriaan
+  github:         adriaanvanrossum/demaandvanadriaan
   stackexchange:
   linkedin:
   instagram:
