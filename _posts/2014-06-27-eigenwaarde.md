@@ -1,5 +1,6 @@
 ---
 layout: post
+dutch: true
 title: Waarde drinker
 description: "Wat doet het met je eigenwaarde?"
 <!-- modified: 2014-06-15 -->
