@@ -1,5 +1,6 @@
 ---
 layout: post
+dutch: true
 title: Je leven 15 minuten op pauze
 description: ""
 category: pauze
