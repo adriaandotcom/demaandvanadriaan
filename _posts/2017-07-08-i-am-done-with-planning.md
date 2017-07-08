@@ -2,7 +2,7 @@
 layout: post
 title: "I'm so done with planning"
 description: ""
-category: pauze
+category: no planning
 tags: [maand uitleg, no planning]
 image:
   feature: covers/grachten.jpg
