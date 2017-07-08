@@ -25,3 +25,8 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
 .entry-content p, .entry-content li {
   line-height: 150%;
 }
+
+.entry-title {
+  margin-bottom: 30px;
+  margin-top: 80px;
+}
