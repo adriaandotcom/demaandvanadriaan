@@ -46,7 +46,7 @@
         <img src="{{ site.baseurl }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
         <span class="author vcard">By <span class="fn"><a href="{{ site.baseurl }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
         {% if page.readtime > 0 %}
-          <span class=""><i class="fa fa-clock-o"></i> {{ page.readtime }} min. leestijd</span>
+          <span class=""><i class="fa fa-clock-o"></i> {{ page.readtime }} min. read</span>
         {% endif %}
         <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa fa-calendar" aria-hidden="true"></i> {{ page.date | date: "%B %d, %Y" }}</time></span>
         {% if page.modified %}<span class="entry-date date modified"><time datetime="{{ page.modified }}"><i class="fa fa-pencil" aria-hidden="true"></i> {{ page.modified | date: "%B %d, %Y" }}</time></span>{% endif %}
