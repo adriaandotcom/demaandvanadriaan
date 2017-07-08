@@ -24,6 +24,6 @@ I do a lot at the moment and I don't have the time to do the things I really wan
 > Little sidenote: when planning a date with a girl I usually can't meet the coming week, which is ridiculous.
 
 ## It's time to change
-It's time to change my way of handling appointments drastically. I'm very bad with being dominated and at the moment I'm being dominated by my own calendar. From now on I will not plan things I don't need to plan. The appointments I already made and the recurring apointments will not be cancelled.
+It's time to change my way of handling appointments drastically. I don't like being dominated by my own calendar. From now on I will not plan things I don't need to plan. The appointments I already made and the recurring apointments will not be cancelled.
 
 You want to meet me? Just ask that day if I have plans for that evening, chances are I don't.
