@@ -5,7 +5,7 @@ description: ""
 category: no planning
 tags: [month explanation, no planning]
 image:
-  feature: /images/posts/clocks-with-girl.jpg
+  feature: covers/clocks-with-girl.jpg
 comments: true
 share: true
 readtime: 1
