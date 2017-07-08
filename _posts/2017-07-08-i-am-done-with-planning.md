@@ -2,7 +2,7 @@
 layout: post
 title: "I'm so done with planning"
 description: ""
-category: no planning
+category: no-planning
 tags: [month explanation, no planning]
 image:
   feature: covers/clocks-with-girl.jpg
