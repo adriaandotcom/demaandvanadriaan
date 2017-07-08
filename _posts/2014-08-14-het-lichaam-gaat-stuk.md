@@ -1,5 +1,6 @@
 ---
 layout: post
+dutch: true
 title: Het lichaam gaat stuk
 description: "Het lijkt erop dat Adriaan het moeilijk gaat krijgen!"
 category: 1-uur-sporten
