@@ -15,7 +15,7 @@ tags: []
         {% if post.title %}
           <li>
             <a href="{{ post.url }}">
-              {{ post.title }} <small><time datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.title }} {% if post.dutch %}🇳🇱{% endif%} <small><time datetime="{{ post.date | date_to_xmlschema }}">
                 <i class="fa fa-calendar-empty"></i> {{ post.date | date: "%d %B '%y" }}
               </time></small>
             </a>
