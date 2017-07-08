@@ -22,6 +22,6 @@ So there are two ways to look at planning appointments with friends. Either they
 I do a lot at the moment and I don't have the time to do the things I really want to do. Currently I'm vlogging (which takes 1 day a week), I work at [MGMco](https://membergetmember.co/?utm_source=demaandvanadriaan.nl) (which takes 3 days a week), and the rest of the week I'm filled with [my own projects](http://watiseropderadio.nl/?utm_source=demaandvanadriaan.nl) and social life. Social life is nice, but I don't need as much of it as I have now. _Little sidenote: when planning a date with a girl I usually can't meet the coming week, which is ridiculous.
 
 ## It's time to change
-It's time to change my way of handling appointments drastically. I'm very bad with being dominated and at the moment I'm being dominated by my own calendar. From now on I will not plan things I don't need to plan. The appointments I already made and the reccurring apointments will not be cancelled.
+It's time to change my way of handling appointments drastically. I'm very bad with being dominated and at the moment I'm being dominated by my own calendar. From now on I will not plan things I don't need to plan. The appointments I already made and the recurring apointments will not be cancelled.
 
 You want to meet me? Just ask that day if I have plans for that evening, chances are I don't.
