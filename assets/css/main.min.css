@@ -45,3 +45,7 @@ form{margin:0 0 5px 0}form fieldset{padding:0;margin-bottom:5px;border-width:0}f
 .masthead {
   margin-top: 40px !important;
 }
+
+.entry-meta i {
+  margin-right: 5px;
+}
