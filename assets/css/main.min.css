@@ -30,3 +30,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
   margin-bottom: 30px;
   margin-top: 80px;
 }
+
+.entry-feature-image {
+  margin: 0;
+}
