@@ -1,5 +1,6 @@
 ---
 layout: post
+dutch: true
 title: Einde supermarkt
 description: ""
 category: geen-supermarkt
