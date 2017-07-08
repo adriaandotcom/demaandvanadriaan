@@ -16,8 +16,12 @@ I had some conversations in the last few weeks about making plans with friends. 
 ## Benefits of planning
 Planning has also some great bennefits. For example: my brother and his wife live in San Francisco and the time difference between Amsterdam and their city is 9 hours. To setup a video call it's quite handy to be able to just pick a date and time and plan an accual appointment.
 
-## Another looks at it
-So there are two ways to look at planning appointments with friends. Either is makes it easier to set a date so you will meet or it feels like you have to plan everything and feel like you are a slave of your own calendar. At the moment I'm in the realm of being a slave of my own calendar.
+## Another look at it
+So there are two ways to look at planning appointments with friends. Either it makes it easier to set a date so you will meet ór it feels like you have to plan everything and feel like you are a slave of your own calendar. At the moment I'm in the realm of being a slave which doesn't suit me very well.
+
+I do a lot at the moment and I don't have the time to do the things I really want to do. Currently I'm vlogging (which takes 1 day a week), I work at [MGMco](https://membergetmember.co/?utm_source=demaandvanadriaan.nl) (which takes 3 days a week), and the rest of the week I'm filled with [my own projects](http://watiseropderadio.nl/?utm_source=demaandvanadriaan.nl) and social life. Social life is nice, but I don't need as much as I have now. _Little sidenote: when planning a date with a girl I usally can't meet the comming week, which is ridiculous._
 
 ## It's time to change
-It's time to change my way of handling appointments drastically. I'm very bad with being dominated and at the moment I'm being dominated by my own calendar. 
+It's time to change my way of handling appointments drastically. I'm very bad with being dominated and at the moment I'm being dominated by my own calendar. From now on I will not plan things I don't need to plan. The appointments I already made and the reoccurring apointments will not be cancelled.
+
+You want to meet me? Just ask that day if I have plans for that evening, changes are I don't.
