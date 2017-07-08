@@ -1,5 +1,6 @@
 ---
 layout: post
+dutch: true
 title: Het sport overzicht
 description: "Deze maand elke dag 1 uur sporten. Hier een overzicht van alle sportactiteiten van deze maand."
 category: 1-uur-sporten
