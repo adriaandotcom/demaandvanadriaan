@@ -42,3 +42,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
   position: absolute;
   top: 30px;
 }
+
+.masthead {
+  margin-top: 40px !important;
+}
