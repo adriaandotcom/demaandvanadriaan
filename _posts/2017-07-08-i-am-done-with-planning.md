@@ -3,7 +3,7 @@ layout: post
 title: "I'm so done with planning"
 description: ""
 category: no planning
-tags: [maand uitleg, no planning]
+tags: [month explanation, no planning]
 image:
   feature: covers/grachten.jpg
 comments: true
