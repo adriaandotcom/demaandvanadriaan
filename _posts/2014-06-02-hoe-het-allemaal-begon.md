@@ -1,5 +1,6 @@
 ---
 layout: post
+dutch: true
 title: Hoe het allemaal begon
 description: "De eerste post van de reeks over de eerste maand."
 modified: 2014-06-14
