@@ -12,3 +12,12 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
   -moz-box-shadow: none;
   box-shadow: none;
 }
+
+.entry-content h2, .entry-content h3, entry-content h4, entry-content h5 {
+  margin-bottom: 0;
+  font-weight: normal;
+}
+
+entry-content h2 + p, entry-content h3 + p, entry-content h4 + p, entry-content h5 + p {
+  margin-top: 0;
+}
