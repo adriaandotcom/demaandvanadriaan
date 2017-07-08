@@ -1,5 +1,6 @@
 ---
 layout: post
+dutch: true
 title: Zo, en nu is het afgelopen!
 description: "Een nieuwe maand! Deze maand alleen maar complimentjes, wat zou me dat brengen?"
 category: complimentjes
