@@ -1,5 +1,6 @@
 ---
 layout: post
+dutch: true
 title: Laten we het lichaam testen
 description: "Een nieuwe maand! Deze maand elke dag 1 uur sporten, zou Adriaan het volhouden?"
 category: 1-uur-sporten
