@@ -19,5 +19,5 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
 }
 
 entry-content h2 + p, entry-content h3 + p, entry-content h4 + p, entry-content h5 + p {
-  margin-top: 0;
+  margin-top: 5px;
 }
